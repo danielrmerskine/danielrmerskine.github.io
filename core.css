@@ -1,0 +1,12 @@
+p {
+    font-family: "Courier New", "Lucida Console", monospace;
+}
+
+ul {
+    list-style-type: square;
+  }
+
+#content {
+    margin: 50px;
+    width: 600px;
+}
